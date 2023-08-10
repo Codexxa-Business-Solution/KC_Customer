@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "963100862013",
+    "project_id": "ecart-976a3",
+    "storage_bucket": "ecart-976a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963100862013:android:b3d9920cd6ca624e716c54",
+        "android_client_info": {
+          "package_name": "user.app.fooddeliverywala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963100862013-m280c6v1slrmtpf0aeg4ra43b25caums.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "user.app.fooddeliverywala",
+            "certificate_hash": "ed905320e8aae6450add63895610a6a36be86d23"
+          }
+        },
+        {
+          "client_id": "963100862013-27be7t91ogiqvgi80nda8t59fvd52jro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRz8j2vi2m3tV2VzSKpz-AJF2duykuOGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963100862013-27be7t91ogiqvgi80nda8t59fvd52jro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
